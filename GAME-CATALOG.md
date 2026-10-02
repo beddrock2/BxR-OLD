@@ -1,5 +1,7 @@
 # Adding Games
 
+Catalog version 1.0.1.
+
 The random-game reel lasts 8 seconds by default. Change `window.GAME_ROLL_DURATION_MS` at the top of `game-catalog.js` to any positive duration in milliseconds; the reel and reveal timing use the same value.
 
 Edit `game-catalog.js` and add one object to `window.DOWNLOAD_GAME_CATALOG`:

@@ -1,4 +1,5 @@
 const express = require("express");
+const APP_VERSION = "1.0.1";
 const cors = require("cors");
 
 const app = express();

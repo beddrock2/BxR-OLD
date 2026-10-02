@@ -1,4 +1,5 @@
 window.GAME_ROLL_DURATION_MS = 8000;
+window.CATALOG_VERSION = "1.0.1";
 
 window.DOWNLOAD_GAME_CATALOG = [
   {

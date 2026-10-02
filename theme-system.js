@@ -1,4 +1,4 @@
-// Theme System - Plug and Play
+// Theme System - Plug and Play (v1.0.1)
 // Copy this code to your project for a complete theme switching system
 
 import React, { createContext, useContext, useState, useEffect } from 'react';

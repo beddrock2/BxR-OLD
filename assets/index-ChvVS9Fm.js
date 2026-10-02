@@ -1,3 +1,4 @@
+/* bxr-test v1.0.1 */
 function X0(e, t) {
 	for (var n = 0; n < t.length; n++) {
 		const r = t[n];

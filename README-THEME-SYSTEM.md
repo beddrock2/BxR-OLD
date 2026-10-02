@@ -1,5 +1,7 @@
 # Theme System - Plug & Play
 
+Updated: 2026-10-02
+
 A complete, ready-to-use theme switching system extracted from your codebase.
 
 ## Files Created

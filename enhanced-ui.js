@@ -1,4 +1,4 @@
-// Enhanced UI for Download Tab with CS2 Case Opening Effects
+// Enhanced UI for Download Tab with CS2 Case Opening Effects (v1.0.1)
 
 // Procedural CS2-style case-opening sounds
 const cs2Sounds = {

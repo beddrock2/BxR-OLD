@@ -1,4 +1,4 @@
-// Usage Example - How to implement the theme system
+// Usage Example - How to implement the theme system (v1.0.1)
 // Copy this code to see how to use the theme system
 
 import React from 'react';
