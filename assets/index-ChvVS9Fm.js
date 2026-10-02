@@ -16099,6 +16099,262 @@ const Rb = ({
 			url: "",
 			manualStatus: "Coming Soon",
 			description: "Call of Duty's Modern Warfare 3 (2011)"
+		}, {
+			id: "Portal 2",
+			name: "Portal 2",
+			icon: "🔵",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Portal 2"
+		}, {
+			id: "Stardew Valley",
+			name: "Stardew Valley",
+			icon: "🌾",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Stardew Valley"
+		}, {
+			id: "Hades",
+			name: "Hades",
+			icon: "⚔️",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Hades"
+		}, {
+			id: "Terraria",
+			name: "Terraria",
+			icon: "⛏️",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Terraria"
+		}, {
+			id: "Risk of Rain 2",
+			name: "Risk of Rain 2",
+			icon: "🌧️",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Risk of Rain 2"
+		}, {
+			id: "Sekiro: Shadows Die Twice",
+			name: "Sekiro: Shadows Die Twice",
+			icon: "🗡️",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Sekiro: Shadows Die Twice"
+		}, {
+			id: "God of War",
+			name: "God of War",
+			icon: "🪓",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "God of War"
+		}, {
+			id: "Fallout 4",
+			name: "Fallout 4",
+			icon: "☢️",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Fallout 4"
+		}, {
+			id: "Borderlands 3",
+			name: "Borderlands 3",
+			icon: "🎭",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Borderlands 3"
+		}, {
+			id: "Apex Legends",
+			name: "Apex Legends",
+			icon: "🏆",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Apex Legends"
+		}, {
+			id: "Left 4 Dead 2",
+			name: "Left 4 Dead 2",
+			icon: "🧟",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Left 4 Dead 2"
+		}, {
+			id: "Team Fortress 2",
+			name: "Team Fortress 2",
+			icon: "🎖️",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Team Fortress 2"
+		}, {
+			id: "Counter-Strike 2",
+			name: "Counter-Strike 2",
+			icon: "💣",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Counter-Strike 2"
+		}, {
+			id: "Dota 2",
+			name: "Dota 2",
+			icon: "🎮",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Dota 2"
+		}, {
+			id: "Rocket League",
+			name: "Rocket League",
+			icon: "🚗",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Rocket League"
+		}, {
+			id: "Killing Floor 2",
+			name: "Killing Floor 2",
+			icon: "🔫",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Killing Floor 2"
+		}, {
+			id: "Monster Hunter: World",
+			name: "Monster Hunter: World",
+			icon: "🐉",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Monster Hunter: World"
+		}, {
+			id: "Devil May Cry 5",
+			name: "Devil May Cry 5",
+			icon: "😈",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Devil May Cry 5"
+		}, {
+			id: "Resident Evil Village",
+			name: "Resident Evil Village",
+			icon: "🧛",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Resident Evil Village"
+		}, {
+			id: "Horizon Zero Dawn",
+			name: "Horizon Zero Dawn",
+			icon: "🏹",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Horizon Zero Dawn"
+		}, {
+			id: "Death Stranding",
+			name: "Death Stranding",
+			icon: "📦",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Death Stranding"
+		}, {
+			id: "It Takes Two",
+			name: "It Takes Two",
+			icon: "👫",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "It Takes Two"
+		}, {
+			id: "A Way Out",
+			name: "A Way Out",
+			icon: "🔓",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "A Way Out"
+		}, {
+			id: "Overcooked! 2",
+			name: "Overcooked! 2",
+			icon: "🍳",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Overcooked! 2"
+		}, {
+			id: "Cuphead",
+			name: "Cuphead",
+			icon: "🎩",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Cuphead"
+		}, {
+			id: "Hollow Knight",
+			name: "Hollow Knight",
+			icon: "🦋",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Hollow Knight"
+		}, {
+			id: "Ori and the Will of the Wisps",
+			name: "Ori and the Will of the Wisps",
+			icon: "✨",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Ori and the Will of the Wisps"
+		}, {
+			id: "Celeste",
+			name: "Celeste",
+			icon: "⛰️",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Celeste"
+		}, {
+			id: "Dead Cells",
+			name: "Dead Cells",
+			icon: "💀",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Dead Cells"
+		}, {
+			id: "Slay the Spire",
+			name: "Slay the Spire",
+			icon: "🃏",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Slay the Spire"
+		}, {
+			id: "Vampire Survivors",
+			name: "Vampire Survivors",
+			icon: "🧛",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Vampire Survivors"
+		}, {
+			id: "Phasmophobia",
+			name: "Phasmophobia",
+			icon: "👻",
+			version: "Steam edition",
+			url: "",
+			manualStatus: "Released",
+			description: "Phasmophobia"
 		}], y = b => {
 	const S = {
 		Released: "#10B981",
@@ -16167,14 +16423,446 @@ const Rb = ({
 							color: "#6B7280"
 						}, {
 							icon: "🔑",
-							text: "Crack: Yes (TENOKE)",
-							color: "#6B7280"
+							text: "Crack: Yes",
+							color: "#ffffffff"
 						}, {
 							icon: "🔓",
 							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
 							color: "#e7b613ff"
 						}];
-					case "Assassin's Creed Rogue":
+				case "Portal 2":
+						return [{
+							icon: "📦",
+							text: "Size: 8GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Valve",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Stardew Valley":
+						return [{
+							icon: "📦",
+							text: "Size: 500MB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: ConcernedApe",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Hades":
+						return [{
+							icon: "📦",
+							text: "Size: 20GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Supergiant",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Terraria":
+						return [{
+							icon: "📦",
+							text: "Size: 1GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Re-Logic",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Risk of Rain 2":
+						return [{
+							icon: "📦",
+							text: "Size: 4GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Gearbox",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Sekiro: Shadows Die Twice":
+						return [{
+							icon: "📦",
+							text: "Size: 25GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: FromSoftware",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "God of War":
+						return [{
+							icon: "📦",
+							text: "Size: 70GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Sony",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Fallout 4":
+						return [{
+							icon: "📦",
+							text: "Size: 30GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Bethesda",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Borderlands 3":
+						return [{
+							icon: "📦",
+							text: "Size: 75GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: 2K Games",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Apex Legends":
+						return [{
+							icon: "📦",
+							text: "Size: 80GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: EA",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Left 4 Dead 2":
+						return [{
+							icon: "📦",
+							text: "Size: 13GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Valve",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Team Fortress 2":
+						return [{
+							icon: "📦",
+							text: "Size: 15GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Valve",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Counter-Strike 2":
+						return [{
+							icon: "📦",
+							text: "Size: 35GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Valve",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Dota 2":
+						return [{
+							icon: "📦",
+							text: "Size: 15GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Valve",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Rocket League":
+						return [{
+							icon: "📦",
+							text: "Size: 40GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Epic Games",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Killing Floor 2":
+						return [{
+							icon: "📦",
+							text: "Size: 30GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Tripwire",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Monster Hunter: World":
+						return [{
+							icon: "📦",
+							text: "Size: 45GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: CAPCOM",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Devil May Cry 5":
+						return [{
+							icon: "📦",
+							text: "Size: 45GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: CAPCOM",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Resident Evil Village":
+						return [{
+							icon: "📦",
+							text: "Size: 25GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: CAPCOM",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Horizon Zero Dawn":
+						return [{
+							icon: "📦",
+							text: "Size: 75GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Sony",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Death Stranding":
+						return [{
+							icon: "📦",
+							text: "Size: 80GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Kojima",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "It Takes Two":
+						return [{
+							icon: "📦",
+							text: "Size: 40GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: EA",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "A Way Out":
+						return [{
+							icon: "📦",
+							text: "Size: 25GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: EA",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Overcooked! 2":
+						return [{
+							icon: "📦",
+							text: "Size: 5GB",
+							color: "#e66f0eea"
+						}, {
+							icon: "👥",
+							text: "Release: Team17",
+							color: "#ffffff"
+						}, {
+							icon: "🔑",
+							text: "Crack: Yes",
+							color: "#ffffffff"
+						}, {
+							icon: "🔓",
+							text: `Seeders: ${Math.floor(Math.random() * 500 + 50)}`,
+							color: "#e7b613ff"
+						}];
+				case "Assassin's Creed Rogue":
 						return [{
 							icon: a.jsx(dt, {
 								size: 16
@@ -17632,6 +18320,7 @@ const downloadGameDetails = {
 	},
 	"FNAF: Into the Pit": {
 		steamId: "2638370",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/2638370/ss_ae2498e5f35e4d69fe9729869083c425a2d9d1.1920x1080.jpg?t=1692147392" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/2638370/ss_ae2498e5f35e4d69fe9729869083c425a2d9d1.webm?t=1692147392" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/2638370/ss_ae2498e5f35e4d69fe9729869083c425a2d9d1.mp4?t=1692147392" type="video/mp4"></video></span><br><br><strong>Jump into the pit and immerse yourself in a new chapter in the Five Nights at Freddy's universe. Oswald explores a rundown pizzeria and finds himself pulled into the past.</strong><br><br>Survive five nights of terror. Travel between time periods, gather clues, solve puzzles, and outrun the threat relentlessly pursuing you.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/2638370/ss_7863dc7e93a5bcf4f0197941bc5e1b16f5b06.1920x1080.jpg?t=1692147392" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/2638370/ss_7863dc7e93a5bcf4f0197941bc5e1b16f5b06.webm?t=1692147392" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/2638370/ss_7863dc7e93a5bcf4f0197941bc5e1b16f5b06.mp4?t=1692147392" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Explore eerie environments and uncover hidden secrets.</li><li>Solve puzzles and gather clues across time periods.</li><li>Run, hide, and survive the horrors of the pit.</li><li>Discover a story connected to the Five Nights at Freddy's universe.</li></ul>`,
 		genre: "Adventure horror", icon: "F", version: "Build 1.0.9.0", size: "3.0 GB", release: "Aug 7, 2024", posted: "Aug 8, 2024", credit: "FitGirl Repack", developer: "Mega Cat Studios", publisher: "Mega Cat Studios", proton: "Platinum", reviews: "Overwhelmingly Positive", positive: "4,921", total: "5,218", percentage: 94, about: "Explore a haunting mystery packed with secrets, tension, and a story that will not stay buried.", minimum: ["Windows 10 64-bit", "Intel Core i3", "4 GB RAM", "GTX 650", "3 GB available space"], recommended: ["Windows 11 64-bit", "Intel Core i5", "8 GB RAM", "GTX 970", "3 GB available space"], hero: "linear-gradient(105deg,#170d14,#592336 55%,#b0524b)"
 	},
 	"Assassin's Creed Rogue": {
@@ -17652,10 +18341,12 @@ const downloadGameDetails = {
 	},
 	"Raft": {
 		steamId: "648800",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/648800/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/648800/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/648800/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Raft throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea!</strong><br><br>Gather debris, scavenge reef-made tools, build your vessel, and navigate by wind and current to find valuable resources and materials. But beware: the ocean is treacherous and filled with danger. You are completely at the mercy of the waves and the sun.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/648800/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/648800/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/648800/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Multiplayer survival: Play alone or with friends</li><li>Crafting: Build equipment, weapons, and structures</li><li>Exploration: Discover hidden islands and dangers</li><li>Survival: Manage hunger, thirst, and threats</li></ul>`,
 		genre: "Survival adventure", icon: "R", version: "Steam edition", size: "10 GB", release: "May 23, 2018", posted: "Jun 25, 2025", credit: "Steam", developer: "Redbeet Interactive", publisher: "Axolot Games", proton: "Platinum", reviews: "Very Positive", about: "Survive the open ocean, build your floating raft, and explore a world of danger and discovery."
 	},
 	"Red Dead Redemption 2": {
 		steamId: "1174180",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Arthur Morgan and the Van der Linde gang are fugitives on the run across the untamed heart of America.</strong><br><br>Experience the epic story of outlaw Arthur Morgan and the Van der Linde gang as they rob, fight, and steal their way across the vast and rugged heartland of America in search of a better life.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Massive open world with detailed environments</li><li>Deep narrative with meaningful choices</li><li>Realistic gunplay and combat</li><li>Dynamic weather and day/night cycle</li></ul>`,
 		genre: "Open-world western", icon: "R", version: "Steam edition", size: "150 GB", release: "Dec 5, 2019", posted: "Jun 26, 2025", credit: "Rockstar Games", developer: "Rockstar Games", publisher: "Rockstar Games", proton: "Platinum", reviews: "Very Positive", about: "Arthur Morgan and the Van der Linde gang are fugitives on the run across the untamed heart of America."
 	},
 	"Call of Duty: Modern Warfare (2019)": {
@@ -17701,6 +18392,175 @@ const downloadGameDetails = {
 	"Valheim": {
 		steamId: "892970",
 		genre: "Survival sandbox", icon: "V", version: "Steam edition", size: "1 GB", release: "Feb 2, 2021", posted: "Jul 8, 2025", developer: "Iron Gate AB", publisher: "Coffee Stain Publishing", proton: "Platinum", reviews: "Very Positive", about: "A brutal exploration and survival game for 1-10 players, set in a procedurally generated purgatory inspired by Viking culture."
+	},
+
+	"Portal 2": {
+		steamId: "620",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_a589efb55704a6b736ed2394706c6c5a9529312.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_a589efb55704a6b736ed2394706c6c5a9529312.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_a589efb55704a6b736ed2394706c6c5a9529312.mp4?t=1658894168" type="video/mp4"></video></span><br><strong>Portal 2 draws from the award-winning formula of innovative gameplay, story, and music that earned the original Portal over 70 industry accolades and 15 "Game of the Year" awards.</strong><br><br>Portal 2 takes you through a series of increasingly complex test chambers, with GLaOS as your guide. You can either play solo or with a friend in the two-player co-op mode.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/620/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="<li>Advanced physics: Use portals to solve complex puzzles</li><li>Co-op mode: Play with a friend in the two-player campaign</li><li>Story continuation: Discover GLaOS's past and fate</li><li>Custom test chambers: Create and share your own puzzles</li></ul>`,
+		genre: "Puzzle platformer", icon: "P", version: "Steam edition", size: "8 GB", release: "Apr 18, 2011", posted: "Jul 10, 2025", developer: "Valve", publisher: "Valve", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Sequel to the original Portal with new puzzle mechanics, co-op mode, and an expanded story."
+	},
+	"Stardew Valley": {
+		steamId: "413150",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/413150/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/413150/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/413150/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life.</strong><br><br>Can you learn to live off the land and turn these overgrown fields into a thriving home? It won't be easy. Since the Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town's most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/413150/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/413150/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/413150/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Turn your overgrown field into a lively farm</li><li>Raise and breed happy animals</li><li>Grow a variety of seasonal crops</li><li>Design your farm and customize your home</li><li>Become part of the community by making friends and helping neighbors</li></ul>`,
+		genre: "Farming simulation", icon: "S", version: "Steam edition", size: "500 MB", release: "Feb 26, 2016", posted: "Jul 11, 2025", developer: "ConcernedApe", publisher: "ConcernedApe", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "You've inherited your grandfather's old farm plot. Armed with hand-me-down tools and a few coins, you set out to begin your new life."
+	},
+	"Hades": {
+		steamId: "1145360",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1145360/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1145360/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1145360/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion and Transistor.</strong><br><br>Battle out of hell as the illegitimate son of Hades. The Olympians have your back! Meet Zeus, Athena, Poseidon, and many more, and choose from their dozens of powerful Boons that enhance your abilities. There are thousands of viable character builds to discover as you go.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1145360/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1145360/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1145360/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Unravel the mysteries of the Underworld through a rich, narrative-driven story</li><li>Face hundreds of unique enemies and bosses with unique attack patterns</li><li>Unlock powerful Boons from dozens of Olympian gods</li><li>Grow your relationships with the inhabitants of the Underworld</li></ul>`,
+		genre: "Roguelike action", icon: "H", version: "Steam edition", size: "20 GB", release: "Sep 17, 2020", posted: "Jul 12, 2025", developer: "Supergiant Games", publisher: "Supergiant Games", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Defy the god of the dead as you hack and slash out of the Underworld in this game from the creators of Bastion and Transistor."
+	},
+	"Terraria": {
+		steamId: "105600",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Dig, fight, explore, build: the world is at your fingertips as you fight for survival, fortune, and glory.</strong><br><br>Will you delve deep into cavernous expanses in search of treasure and raw materials with which to craft ever-evolving gear, machinery, and aesthetics? Perhaps you will choose to seek out greater foes to test your mettle in combat? Maybe you will decide to construct your own city to house the host of mysterious allies you may encounter along your travels?<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/105600/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Sandbox gameplay: Dig, build, and explore freely</li><li>Over 400 enemies and bosses to battle</li><li>Over 4,000 items to discover and craft</li><li>Multiplayer: Play with up to 7 friends</li><li>Regular free updates with new content</li></ul>`,
+		genre: "Sandbox adventure", icon: "T", version: "Steam edition", size: "1 GB", release: "May 16, 2011", posted: "Jul 13, 2025", developer: "Re-Logic", publisher: "Re-Logic", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Dig, fight, explore, build: the world is at your fingertips as you fight for survival, fortune, and glory."
+	},
+	"Risk of Rain 2": {
+		steamId: "632360",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/632360/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/632360/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/632360/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Escape a chaotic alien planet by fighting through hordes of frenzied monsters with your friends.</strong><br><br>Risk of Rain 2 is a 3D roguelike shooter where you play as one of several survivors stranded on an alien planet. You'll fight through increasingly difficult stages, collecting items and power-ups to help you survive. Each run is different, with random item spawns and enemy encounters.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/632360/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/632360/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/632360/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Play solo or with up to 4 friends in co-op</li><li>Randomly generated levels and items</li><li>Over 100 items to discover and combine</li><li>10 playable survivors with unique abilities</li><li>Continuous updates with new content</li></ul>`,
+		genre: "Third-person shooter", icon: "R", version: "Steam edition", size: "4 GB", release: "Mar 28, 2019", posted: "Jul 14, 2025", developer: "Hopoo Games", publisher: "Gearbox Publishing", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Escape a chaotic alien planet by fighting through hordes of frenzied monsters with your friends."
+	},
+	"Sekiro: Shadows Die Twice": {
+		steamId: "814380",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/814380/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/814380/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/814380/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Carve your own clever path to vengeance in this all-new adventure from developer FromSoftware.</strong><br><br>Explore late 1500s Sengoku Japan, a brutal period of constant life and death conflict, as you come face to face with larger than life enemies in a dark and twisted world. Unleash an arsenal of deadly prosthetic tools and ninja abilities while you blend stealth, vertical traversal, and visceral head-to-head combat in a bloody confrontation.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/814380/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/814380/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/814380/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Master the lethal arts of the shinobi assassin</li><li>Explore a beautiful and dangerous world</li><li>Use powerful prosthetic tools to gain the upper hand</li><li>Face challenging bosses that require skill and patience</li></ul>`,
+		genre: "Action adventure", icon: "S", version: "Steam edition", size: "25 GB", release: "Mar 22, 2019", posted: "Jul 15, 2025", developer: "FromSoftware", publisher: "Activision", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Carve your own clever path to vengeance in an all-new adventure from developer FromSoftware."
+	},
+	"God of War": {
+		steamId: "1593500",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Join Kratos as he journeys through the Norse realms with his son Atreus to fulfill a deeply personal quest.</strong><br><br>From Santa Monica Studio comes the sequel to the critically acclaimed God of War (2018). Fimbulwinter is well underway. Kratos and Atreus must travel to each of the Nine Realms in search of answers as Asgardian forces prepare for a prophesied battle that will end the world. Along the way they will explore stunning, mythical landscapes and face fearsome enemies in the form of Norse gods and monsters.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Cinematic, emotionally gripping story</li><li>Stunningly beautiful worlds</li><li>Upgradable weapons and armor</li><li>Intense, visceral combat</li></ul>`,
+		genre: "Action adventure", icon: "G", version: "Steam edition", size: "70 GB", release: "Sep 14, 2022", posted: "Jul 16, 2025", developer: "Santa Monica Studio", publisher: "Sony Interactive Entertainment", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Join Kratos as he journeys through the Norse realms with his son Atreus to fulfill a deeply personal quest."
+	},
+	"Fallout 4": {
+		steamId: "377160",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/377160/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/377160/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/377160/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland.</strong><br><br>Welcome home. Go it alone or with a companion at your side. Experience the largest and most dynamic world ever created in the legendary Fallout universe.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/377160/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/377160/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/377160/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Freedom and Liberty: Do whatever you want in a massive open world</li><li>You're S.P.E.C.I.A.L: Be whoever you want with the S.P.E.C.I.A.L. character system</li><li>Collect and Build: Build settlements, craft weapons, and armor</li><li>Precision Combat: First-person or third-person combat with V.A.T.S.</li></ul>`,
+		genre: "Open-world RPG", icon: "F", version: "Steam edition", size: "30 GB", release: "Nov 10, 2015", posted: "Jul 18, 2025", developer: "Bethesda Game Studios", publisher: "Bethesda Softworks", proton: "Platinum", reviews: "Very Positive", about: "As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival."
+	},
+	"Borderlands 3": {
+		steamId: "397540",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/397540/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/397540/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/397540/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure!</strong><br><br>Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot, and save your home from the most ruthless cult leaders in the galaxy.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/397540/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/397540/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/397540/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Four new Vault Hunters with unique skill trees</li><li>Bazillions of guns with different styles and effects</li><li>Play solo or with up to 3 friends in co-op</li><li>Explore new worlds and face new enemies</li></ul>`,
+		genre: "First-person shooter RPG", icon: "B", version: "Steam edition", size: "75 GB", release: "Sep 13, 2019", posted: "Jul 19, 2025", developer: "Gearbox Software", publisher: "2K Games", proton: "Platinum", reviews: "Very Positive", about: "The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure."
+	},
+	"Left 4 Dead 2": {
+		steamId: "550",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/550/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/550/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/550/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead, the #1 co-op game of 2008.</strong><br><br>This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns. You'll play as one of four new survivors armed with a wide and devastating array of classic and upgraded weapons.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/550/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/550/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/550/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>5 campaigns with over 25 levels</li><li>Playable in co-op with up to 4 players</li><li>New weapons and items including melee weapons</li><li>AI Director 2.0 for dynamic gameplay</li></ul>`,
+		genre: "Co-op survival horror", icon: "L", version: "Steam edition", size: "13 GB", release: "Nov 17, 2009", posted: "Jul 21, 2025", developer: "Valve", publisher: "Valve", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Set in the zombie apocalypse, Left 4 Dead 2 (L4D2) is the highly anticipated sequel to the award-winning Left 4 Dead."
+	},
+	"Resident Evil Village": {
+		steamId: "1196590",
+		genre: "Survival horror", icon: "R", version: "Steam edition", size: "25 GB", release: "May 7, 2021", posted: "Jul 29, 2025", developer: "CAPCOM Co., Ltd.", publisher: "CAPCOM Co., Ltd.", proton: "Platinum", reviews: "Very Positive", about: "Experience survival horror like never before in the eighth major installment in the storied Resident Evil franchise."
+	},
+	"Horizon Zero Dawn": {
+		steamId: "1151640",
+		genre: "Open-world action RPG", icon: "H", version: "Steam edition", size: "75 GB", release: "Aug 7, 2020", posted: "Jul 30, 2025", developer: "Guerrilla Games", publisher: "Sony Interactive Entertainment", proton: "Platinum", reviews: "Very Positive", about: "Aloy, a young hunter born to a tribe of outcasts, discovers the ruins of an ancient civilization."
+	},
+	"Death Stranding": {
+		steamId: "1190460",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1145350/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1145350/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1145350/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>From legendary game creator Hideo Kojima comes a genre-defying experience.</strong><br><br>Sam Bridges must brave a world utterly transformed by the Death Stranding. Carrying the disconnected remnants of our future in his hands, he embarks on a journey to reconnect the shattered world one step at a time.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1145350/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1145350/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1145350/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Unique traversal and delivery mechanics</li><li>Asynchronous multiplayer</li><li>Deep narrative with cinematic storytelling</li><li>Beautiful post-apocalyptic world</li></ul>`,
+		genre: "Action adventure", icon: "D", version: "Steam edition", size: "80 GB", release: "Jul 14, 2020", posted: "Jul 31, 2025", developer: "Kojima Productions", publisher: "505 Games", proton: "Platinum", reviews: "Very Positive", about: "From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive Director's Cut."
+	},
+	"It Takes Two": {
+		steamId: "1504830",
+		genre: "Co-op adventure", icon: "I", version: "Steam edition", size: "40 GB", release: "Mar 26, 2021", posted: "Aug 1, 2025", developer: "Hazelight Studios", publisher: "Electronic Arts", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Invite a friend to join for free with Friend's Pass and experience a thrilling adventure built purely for two."
+	},
+	"A Way Out": {
+		steamId: "493020",
+		genre: "Co-op adventure", icon: "A", version: "Steam edition", size: "25 GB", release: "Mar 23, 2018", posted: "Aug 2, 2025", developer: "Hazelight Studios", publisher: "Electronic Arts", proton: "Platinum", reviews: "Very Positive", about: "A Way Out is a cinematic co-op adventure where two prisoners must work together to escape from prison."
+	},
+	"Overcooked! 2": {
+		steamId: "448510",
+		genre: "Co-op cooking simulation", icon: "O", version: "Steam edition", size: "5 GB", release: "Aug 7, 2018", posted: "Aug 3, 2025", developer: "Team17", publisher: "Team17", proton: "Platinum", reviews: "Very Positive", about: "Overcooked! 2 returns with a brand-new helping of chaotic cooking action! Journey back to the Onion Kingdom."
+	},
+	"Cuphead": {
+		steamId: "268910",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/268910/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/268910/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/268910/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.</strong><br><br>Play as Cuphead or Mugman (in single player or local co-op) as you traverse strange worlds, acquire new weapons, learn powerful super moves, and discover hidden secrets while you try to pay your debt back to the devil!<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/268910/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/268910/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/268910/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>1930s cartoon-inspired visuals and audio</li><li>Hand-drawn animation and watercolor backgrounds</li><li>Challenging boss battles</li><li>Single player or local co-op</li></ul>`,
+		genre: "Run and gun", icon: "C", version: "Steam edition", size: "4 GB", release: "Sep 29, 2017", posted: "Aug 4, 2025", developer: "Studio MDHR", publisher: "Studio MDHR", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s."
+	},
+	"Hollow Knight": {
+		steamId: "367520",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/367520/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/367520/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/367520/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes.</strong><br><br>Explore twisting caverns, ancient cities and deadly wastes; battle tainted creatures and befriend bizarre bugs; and solve ancient puzzles at the kingdom's heart. Each new area you discover is brimming with new characters, quests, and secrets to uncover.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/367520/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/367520/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/367520/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Classic 2D side-scrolling action</li><li>Beautiful hand-drawn art and animation</li><li>Dozens of unique enemies and bosses</li><li>Massive interconnected world to explore</li></ul>`,
+		genre: "Metroidvania", icon: "H", version: "Steam edition", size: "9 GB", release: "Feb 24, 2017", posted: "Aug 5, 2025", developer: "Team Cherry", publisher: "Team Cherry", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes."
+	},
+	"Ori and the Will of the Wisps": {
+		steamId: "1097840",
+		genre: "Metroidvania", icon: "O", version: "Steam edition", size: "12 GB", release: "Mar 11, 2020", posted: "Aug 6, 2025", developer: "Moon Studios", publisher: "Xbox Game Studios", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "From the creators of Ori and the Blind Forest comes the highly anticipated sequel: Ori and the Will of the Wisps."
+	},
+	"Celeste": {
+		steamId: "504230",
+		genre: "Platformer", icon: "C", version: "Steam edition", size: "1 GB", release: "Jan 25, 2018", posted: "Aug 7, 2025", developer: "Maddy Makes Games", publisher: "Maddy Makes Games", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain."
+	},
+	"Dead Cells": {
+		steamId: "588650",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/588650/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/588650/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/588650/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Dead Cells is a rogue-lite, action-platformer. You'll explore a sprawling, ever-changing castle assuming you're able to fight your way past its keepers.</strong><br><br>Kill. Die. Learn. Repeat. That's the core loop of Dead Cells. Each time you die, you lose your weapons and upgrades, but you keep your knowledge and get stronger permanently. The castle is procedurally generated, so no two runs are the same.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/588650/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/588650/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/588650/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Rogue-lite gameplay with permanent progression</li><li>Procedurally generated levels</li><li>Over 100 weapons and skills</li><li>Challenging but fair combat</li></ul>`,
+		genre: "Roguelike action platformer", icon: "D", version: "Steam edition", size: "1 GB", release: "Aug 7, 2018", posted: "Aug 8, 2025", developer: "Motion Twin", publisher: "Motion Twin", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Dead Cells is a rogue-lite, action-platformer. You'll explore a sprawling, ever-changing castle."
+	},
+	"Slay the Spire": {
+		steamId: "646570",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>We fused card games and roguelikes together to make the best single player deckbuilder we could.</strong><br><br>Craft a unique deck, encounter bizarre creatures, discover relics of immense power, and Slay the Spire! Each run is unique as you choose from hundreds of cards and strategically build your deck to defeat powerful enemies.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Dynamic deck building with hundreds of cards</li><li>Three unique characters with different playstyles</li><li>Procedurally generated levels and enemies</li><li>Strategic depth with endless replayability</li></ul>`,
+		genre: "Roguelike deck builder", icon: "S", version: "Steam edition", size: "1 GB", release: "Jan 23, 2019", posted: "Aug 9, 2025", developer: "MegaCrit", publisher: "MegaCrit", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "We fused card games and roguelikes together to make the best single player deckbuilder we could."
+	},
+	"Vampire Survivors": {
+		steamId: "1794680",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1794680/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1794680/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1794680/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements.</strong><br><br>Survive the endless waves of enemies using your ever-growing arsenal of weapons and upgrades. The game features retro-style graphics and simple one-handed controls, making it easy to pick up but hard to master.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1794680/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1794680/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1794680/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Simple one-handed controls</li><li>Over 30 weapons and 60+ upgrades</li><li>Multiple characters to unlock</li><li>Endless waves of enemies</li></ul>`,
+		genre: "Roguelike survival", icon: "V", version: "Steam edition", size: "500 MB", release: "Oct 17, 2022", posted: "Aug 10, 2025", developer: "poncle", publisher: "poncle", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements."
+	},
+	"Phasmophobia": {
+		steamId: "739630",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/739630/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/739630/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/739630/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Phasmophobia is a 4-player online co-op psychological horror where you and your team investigate haunted locations.</strong><br><br>You will use your ghost hunting equipment to search for evidence of ghosts in various haunted locations. Each ghost has unique characteristics and behaviors, making each investigation different and challenging.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/739630/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/739630/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/739630/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Unique ghost types with different behaviors</li><li>Realistic ghost hunting equipment</li><li>Procedural ghost encounters</li><li>VR support</li></ul>`,
+		genre: "Co-op horror", icon: "P", version: "Steam edition", size: "20 GB", release: "Sep 18, 2020", posted: "Aug 11, 2025", developer: "Kinetic Games", publisher: "Kinetic Games", proton: "Platinum", reviews: "Very Positive", about: "Phasmophobia is a 4-player online co-op psychological horror where you and your team investigate haunted locations."
+	},
+	"The Witcher 3: Wild Hunt": {
+		steamId: "292030",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Become a professional monster slayer and explore a vast fantasy world full of choices and consequences.</strong><br><br>You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/292030/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Massive open world to explore</li><li>Three different playstyles: warrior, alchemist, rogue</li><li>Deep branching storyline with meaningful choices</li><li>Over 100 hours of gameplay</li></ul>`,
+		genre: "Open-world RPG", icon: "W", version: "Complete Edition", size: "50 GB", release: "May 18, 2015", posted: "Aug 24, 2025", developer: "CD PROJEKT RED", publisher: "CD PROJEKT RED", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Become a professional monster slayer and explore a vast fantasy world full of choices and consequences."
+	},
+	"Grand Theft Auto V": {
+		steamId: "271590",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Explore Los Santos and Blaine County in the biggest, most dynamic open world ever created by Rockstar Games.</strong><br><br>When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of daring heists to survive in this ruthless city.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/271590/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Three playable protagonists with intertwining stories</li><li>Massive open world with diverse activities</li><li>Online multiplayer with GTA Online</li><li>Stunning graphics and realistic physics</li></ul>`,
+		genre: "Open-world action", icon: "G", version: "Legacy edition", size: "110 GB", release: "Apr 14, 2015", posted: "Aug 25, 2025", developer: "Rockstar North", publisher: "Rockstar Games", proton: "Gold", reviews: "Very Positive", about: "Explore Los Santos and Blaine County in Rockstar's vast open world."
+	},
+	"ELDEN RING": {
+		steamId: "1245620",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord.</strong><br><br>A vast world where open fields with a variety of situations and huge dungeons with complex and three-dimensional designs are seamlessly connected. As you explore, the joy of discovering unknown and overwhelming threats await you, leading to a high sense of accomplishment.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/1245620/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Vast interconnected world with no boundaries</li><li>Character customization with many options</li><li>Challenging but rewarding combat</li><li>Multiplayer co-op and PvP</li></ul>`,
+		genre: "Action RPG", icon: "E", version: "Steam edition", size: "60 GB", release: "Feb 25, 2022", posted: "Aug 26, 2025", developer: "FromSoftware, Inc.", publisher: "Bandai Namco Entertainment", proton: "Platinum", reviews: "Very Positive", about: "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord."
+	},
+	"Hogwarts Legacy": {
+		steamId: "990080",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/990080/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/990080/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/990080/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Experience life as a student as you live the unwritten and embark on a journey to uncover a hidden truth.</strong><br><br>Hogwarts Legacy is an immersive, open-world action RPG set in the world first introduced in the Harry Potter books. For the first time, experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/990080/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/990080/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/990080/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Explore the open world of Hogwarts and beyond</li><li>Learn and master spells and potions</li><li>Battle dark wizards and magical creatures</li><li>Make friends and grow your relationships</li></ul>`,
+		genre: "Open-world action RPG", icon: "H", version: "Steam edition", size: "85 GB", release: "Feb 10, 2023", posted: "Aug 27, 2025", developer: "Avalanche Software", publisher: "Warner Bros. Games", proton: "Gold", reviews: "Very Positive", about: "Experience life as a student as you live the unwritten and embark on a journey to uncover a hidden truth."
+	},
+	"Dying Light": {
+		steamId: "239140",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/239140/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/239140/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/239140/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Survive in a city overrun by a vicious epidemic where the infected grow more aggressive after sunset.</strong><br><br>Dying Light is an open-world survival game in a sprawling urban environment. As you scavenge for resources to craft weapons and defend yourself against the growing horde of infected, you'll need to use all your skills to survive and find a way to escape.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/239140/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/239140/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/239140/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Parkour movement system for exploration</li><li>Day/night cycle with gameplay changes</li><li>Weapon crafting and upgrade system</li><li>4-player co-op mode</li></ul>`,
+		genre: "Zombie survival action", icon: "D", version: "Steam edition", size: "40 GB", release: "Jan 26, 2015", posted: "Aug 28, 2025", developer: "Techland", publisher: "Techland", proton: "Platinum", reviews: "Very Positive", about: "Survive in a city overrun by a vicious epidemic where the infected grow more aggressive after sunset."
+	},
+	"BioShock Infinite": {
+		steamId: "8870",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/8870/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/8870/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/8870/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Indebted to the wrong people, Booker DeWitt must rescue Elizabeth from Columbia.</strong><br><br>BioShock Infinite is a first-person shooter set in 1912, featuring a mysterious city in the sky called Columbia. You play as Booker DeWitt, a former detective searching for a woman named Elizabeth who has been held captive for years.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/8870/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/8870/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/8870/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Unique Sky-Line rail system for traversal</li><li>Vigors - powerful supernatural abilities</li><li>Engaging story with emotional depth</li><li>Breathtaking art direction and soundtrack</li></ul>`,
+		genre: "First-person shooter", icon: "B", version: "Steam edition", size: "20 GB", release: "Mar 26, 2013", posted: "Aug 29, 2025", developer: "Irrational Games", publisher: "2K Games", proton: "Platinum", reviews: "Overwhelmingly Positive", about: "Indebted to the wrong people, Booker DeWitt must rescue Elizabeth from Columbia."
+	},
+	"Far Cry 5": {
+		steamId: "552520",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/594650/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/594650/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/594650/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Welcome to Hope County, Montana, home to a fanatical doomsday cult known as Eden's Gate.</strong><br><br>Far Cry 5 is an open-world first-person shooter set in rural Montana. You'll need to team up with other residents and form a resistance to take back your county from the cult's control. Explore the vast world, complete missions, and liberate outposts to weaken the cult's grip.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/594650/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/594650/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/594650/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Vast open world to explore freely</li><li>Co-op multiplayer with a friend</li><li>Wide variety of weapons and vehicles</li><li>Side missions and activities</li></ul>`,
+		genre: "First-person shooter", icon: "F", version: "Steam edition", size: "30 GB", release: "Mar 27, 2018", posted: "Aug 30, 2025", developer: "Ubisoft Montreal", publisher: "Ubisoft", proton: "Platinum", reviews: "Very Positive", about: "Welcome to Hope County, Montana, home to a fanatical doomsday cult known as Eden's Gate."
+	},
+	"Batman: Arkham Knight": {
+		steamId: "208650",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/268090/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/268090/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/268090/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Batman: Arkham Knight brings the award-winning Arkham trilogy to a stunning conclusion.</strong><br><br>Set in Gotham City, this action-adventure game features the Batmobile as a drivable vehicle for the first time. You'll face some of Batman's most iconic villains as you try to uncover the mystery behind the Scarecrow's plan to terrorize Gotham.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/268090/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/268090/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/268090/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Drivable Batmobile with integrated gameplay</li><li>Vast Gotham City to explore</li><li>Combat and stealth gameplay</li><li>Iconic Batman villains and allies</li></ul>`,
+		genre: "Action adventure", icon: "B", version: "Steam edition", size: "45 GB", release: "Jun 23, 2015", posted: "Aug 31, 2025", developer: "Rocksteady Studios", publisher: "Warner Bros. Interactive", proton: "Platinum", reviews: "Very Positive", about: "Batman: Arkham Knight brings the award-winning Arkham trilogy to a stunning conclusion."
+	},
+	"Shadow of the Tomb Raider": {
+		steamId: "750920",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/391220/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/391220/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/391220/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>After uncovering an ancient mystery, Lara must explore the most treacherous and remote regions of Siberia to find the secret of immortality.</strong><br><br>Shadow of the Tomb Raider is a reboot of the Tomb Raider series, focusing on a younger Lara Croft. This action-adventure game features survival elements, combat, and exploration as Lara uncovers the secrets of a lost kingdom.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/391220/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/391220/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/391220/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Survival mechanics and crafting</li><li>Combat and stealth gameplay</li><li>Beautiful environments to explore</li><li>Compelling story and character development</li></ul>`,
+		genre: "Action adventure", icon: "S", version: "Steam edition", size: "25 GB", release: "Mar 5, 2013", posted: "Sep 1, 2025", developer: "Crystal Dynamics", publisher: "Square Enix", proton: "Platinum", reviews: "Very Positive", about: "After uncovering an ancient mystery, Lara must explore the most treacherous and remote regions of Siberia to find the secret of immortality."
+	},
+	"Rise of the Tomb Raider": {
+		steamId: "391220",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/512430/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/512430/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/512430/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Lara Croft explores the frozen Siberian wilderness to discover the secret of immortality.</strong><br><br>Rise of the Tomb Raider continues the story of Lara Croft as she explores the ancient Soviet Union in search of the lost city of Kitezh. This action-adventure game features improved combat, traversal mechanics, and a vast open world to explore.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/512430/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/512430/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/512430/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Improved combat and traversal mechanics</li><li>Large open world to explore</li><li>Challenge tombs and puzzles</li><li>Character progression and skill tree</li></ul>`,
+		genre: "Action adventure", icon: "R", version: "Steam edition", size: "30 GB", release: "Feb 9, 2016", posted: "Sep 2, 2025", developer: "Crystal Dynamics", publisher: "Square Enix", proton: "Platinum", reviews: "Very Positive", about: "Lara Croft explores the frozen Siberian wilderness to discover the secret of immortality."
+	},
+	"DOOM Eternal": {
+		steamId: "782330",
+		aboutHtml: `<h2>About This Game</h2><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/782330/ss_5813747068d6b94931a9522245b9dc97d2366a.1920x1080.jpg?t=1658894168" width="616" height="300"><source src="https://cdn.akamai.steamstatic.com/steam/apps/782330/ss_5813747068d6b94931a9522245b9dc97d2366a.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/782330/ss_5813747068d6b94931a9522245b9dc97d2366a.mp4?t=1658894168" type="video/mp4"></video></span><br><br><strong>Hell's armies have invaded Earth. Become the Slayer in an epic single-player campaign to save humanity.</strong><br><br>DOOM Eternal is a fast-paced first-person shooter that puts you in the role of the Doom Slayer, humanity's last hope against the forces of Hell. With an arsenal of powerful weapons and abilities, you'll battle through waves of demons in visceral combat.<br><br><span class="bb_img_ctn"><video class="bb_img" autoplay muted loop playsinline poster="https://cdn.akamai.steamstatic.com/steam/apps/782330/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.1920x1080.jpg?t=1658894168" width="616" height="190"><source src="https://cdn.akamai.steamstatic.com/steam/apps/782330/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.webm?t=1658894168" type="video/webm"><source src="https://cdn.akamai.steamstatic.com/steam/apps/782330/ss_8b4d5c3a6d1c7fa15a2c8a5b7f5b5b5b0.mp4?t=1658894168" type="video/mp4"></video></span><h2 class="bb_tag">Key Features</h2><ul class="bb_ul"><li>Fast-paced first-person combat</li><li>Large arsenal of weapons and upgrades</li><li>Enemy platforms for vertical combat</li><li>Multiplayer modes</li></ul>`,
+		genre: "First-person shooter", icon: "D", version: "Steam edition", size: "60 GB", release: "Mar 20, 2020", posted: "Sep 3, 2025", developer: "id Software", publisher: "Bethesda Softworks", proton: "Platinum", reviews: "Very Positive", about: "Hell's armies have invaded Earth. Become the Slayer in an epic single-player campaign to save humanity."
 	}
 };
 
@@ -17728,6 +18588,75 @@ const steamImageUrls = steamId => {
 		header: `https://cdn.akamai.steamstatic.com/steam/apps/${steamId}/header.jpg`,
 		hero: override.hero || `https://cdn.akamai.steamstatic.com/steam/apps/${steamId}/library_hero.jpg`,
 		logo: override.logo || `https://cdn.akamai.steamstatic.com/steam/apps/${steamId}/logo.png`
+	};
+};
+
+	const getSteamAppId = game => {
+		const directId = String(game?.steamAppId || "").match(/^\d+$/)?.[0];
+		if (directId) return directId;
+		try {
+			const steamUrl = new URL(game?.steamUrl);
+			return steamUrl.pathname.match(/\/app\/(\d+)/)?.[1] || steamUrl.searchParams.get("appids")?.split(",")[0] || null;
+		} catch {
+			return null;
+		}
+	};
+
+	const getCatalogGenreLabels = genreText => {
+		const labels = [
+			["Action", /\baction\b/i], ["Adventure", /\badventure\b/i], ["Horror", /\bhorror\b/i], ["Indie", /\bindie\b/i],
+			["RPG", /\brpg\b/i], ["Survival", /\bsurvival\b/i], ["Sandbox", /\bsandbox\b/i], ["Puzzle", /\bpuzzle\b/i],
+			["Platformer", /\bplatformer\b/i], ["Simulation", /\bsimulation\b/i], ["Shooter", /\bshooter\b/i], ["Strategy", /\bstrategy\b/i],
+			["Co-op", /\bco-op\b/i], ["Racing", /\bracing\b/i], ["Sports", /\bsports\b/i], ["Physics", /\bphysics\b/i],
+			["Western", /\bwestern\b/i], ["Open-world", /\bopen-world\b/i], ["Battle Royale", /\bbattle royale\b/i], ["Roguelike", /\broguelike\b/i], ["MOBA", /\bmoba\b/i]
+		].filter(([, pattern]) => pattern.test(genreText)).map(([label]) => label);
+		return labels.length ? labels : genreText ? [genreText] : [];
+	};
+
+	const createDownloadCatalogCard = game => {
+		const steamId = getSteamAppId(game);
+		if (!game?.name || !steamId) return null;
+		const button = document.createElement("button");
+		button.type = "button";
+		button.className = "poster-card";
+		button.dataset.openDetails = "";
+		button.dataset.game = game.name;
+		button.style.setProperty("--cover", `url('https://cdn.akamai.steamstatic.com/steam/apps/${steamId}/library_600x900.jpg')`);
+		const tag = document.createElement("span");
+		tag.className = "tag";
+		tag.textContent = game.genre || "PC game";
+		const cover = document.createElement("span");
+		cover.className = "cover";
+		const copy = document.createElement("span");
+		copy.className = "poster-copy";
+		const title = document.createElement("h2");
+		title.textContent = game.name;
+		const description = document.createElement("p");
+		description.textContent = game.description || "";
+		copy.append(title, description);
+		const viewLabel = document.createElement("span");
+		viewLabel.className = "view-label";
+		viewLabel.textContent = "View game →";
+		button.append(tag, cover, copy, viewLabel);
+		return button;
+	};
+
+	const getDownloadGameDetails = button => {
+	const gameName = button.dataset.game;
+	const catalogGame = window.DOWNLOAD_GAME_CATALOG?.find(item => item.name === gameName);
+	const steamId = getSteamAppId(catalogGame) || button.style.getPropertyValue("--cover").match(/\/apps\/(\d+)\//)?.[1];
+	const game = downloadGameDetails[gameName];
+	if (game) return { ...game, steamId: steamId || game.steamId, genre: catalogGame?.genre || game.genre };
+	const summary = button.querySelector(".poster-copy p")?.textContent.trim();
+	return {
+		steamId,
+		genre: catalogGame?.genre || button.querySelector(".tag")?.textContent.trim() || "PC game",
+		icon: gameName?.[0] || "?",
+		version: "Steam edition",
+		size: "See store page",
+		about: catalogGame?.description || summary || `Explore ${gameName}.`,
+		minimum: ["Windows 10 64-bit", "See store page", "See store page", "See store page", "See store page"],
+		recommended: ["Windows 10 64-bit", "See store page", "See store page", "See store page", "See store page"]
 	};
 };
 
@@ -17760,33 +18689,84 @@ function DownloadTabIsolated() {
 	const headingStartColor = textColors.headingStart || t.primaryLight;
 	const headingEndColor = textColors.headingEnd || t.primary;
 	const descriptionColor = textColors.description || t.primaryLight;
-	k.useEffect(() => {
+	k.useLayoutEffect(() => {
 		const section = document.getElementById("download-tab");
 		if (!section) return;
-		const catalog = section.querySelector("#catalog-view"), details = section.querySelector("#details-view"), openButtons = section.querySelectorAll("[data-open-details]"), cards = [...openButtons], searchInput = catalog.querySelector(".search input"), filterButtons = [...catalog.querySelectorAll(".filters button")];
-		const applyDetailLayout = () => { const detailGrid = details.querySelector(".detail-grid"); if (detailGrid) detailGrid.style.setProperty("grid-template-columns", window.innerWidth <= 800 ? "1fr" : "minmax(0,7fr) minmax(260px,3fr)", "important"); };
+		const catalog = section.querySelector("#catalog-view"), details = section.querySelector("#details-view"), posterGrid = section.querySelector(".poster-grid");
+		const configuredCards = Array.isArray(window.DOWNLOAD_GAME_CATALOG) ? window.DOWNLOAD_GAME_CATALOG.map(createDownloadCatalogCard).filter(Boolean) : [];
+		if (configuredCards.length) posterGrid.replaceChildren(...configuredCards);
+		const openButtons = section.querySelectorAll("[data-open-details]"), cards = [...openButtons], searchInput = catalog.querySelector(".search input"), filterButtons = [...catalog.querySelectorAll(".filters button")];
+		const applyDetailLayout = () => { const detailGrid = details.querySelector(".detail-grid"); if (detailGrid) detailGrid.style.setProperty("grid-template-columns", window.innerWidth <= 800 ? "1fr" : "minmax(0,7fr) minmax(220px,3fr)" , "important"); };
 		applyDetailLayout();
 		window.addEventListener("resize", applyDetailLayout);
-		const tools = catalog.querySelector(".catalog-tools"), posterGrid = catalog.querySelector(".poster-grid"), originalOrder = [...cards];
+		const tools = catalog.querySelector(".catalog-tools");
+		const recentlyAddedCards = new Set(cards.slice(0, 6));
+		const featuredGameNames = new Set([
+			"Black Myth: Wukong", "God of War Ragnarök", "Marvel's Spider-Man Remastered", "Resident Evil 4", "SILENT HILL 2", "STAR WARS Jedi: Survivor",
+			"Assassin's Creed Rogue", "Assassin's Creed IV Black Flag", "Red Dead Redemption 2", "Cyberpunk 2077", "The Witcher 3: Wild Hunt", "ELDEN RING",
+			"Hogwarts Legacy", "God of War", "Fallout 4", "Devil May Cry 5", "Resident Evil Village", "Horizon Zero Dawn", "Death Stranding",
+			"BioShock Infinite", "Batman: Arkham Knight", "Shadow of the Tomb Raider", "Rise of the Tomb Raider", "DOOM Eternal",
+			"The Last of Us Part I", "Horizon Forbidden West Complete Edition", "Marvel's Spider-Man: Miles Morales", "UNCHARTED: Legacy of Thieves Collection",
+			"Ratchet & Clank: Rift Apart", "Days Gone", "Detroit: Become Human", "Mass Effect Legendary Edition", "NieR:Automata",
+			"NieR Replicant ver.1.22474487139...", "Persona 5 Royal", "Persona 3 Reload", "Metaphor: ReFantazio", "FINAL FANTASY VII REMAKE INTERGRADE",
+			"FINAL FANTASY XVI", "Lies of P", "Kena: Bridge of Spirits", "Sifu", "A Plague Tale: Requiem", "A Plague Tale: Innocence",
+			"Mafia: Definitive Edition", "Mafia II: Definitive Edition", "Dishonored", "Dishonored 2", "Prey", "CONTROL Ultimate Edition",
+			"Metro Exodus", "Metro 2033 Redux"
+		]);
+		const isFeatured = card => featuredGameNames.has(card.dataset.game) || /<(?:img|video)\b|\.gif\b/i.test(downloadGameDetails[card.dataset.game]?.aboutHtml || "");
+		const originalOrder = [...cards].sort((left, right) => Number(isFeatured(right)) - Number(isFeatured(left)));
+		const genreOptions = [...new Set(cards.flatMap(card => getCatalogGenreLabels(card.querySelector(".tag")?.textContent.trim() || "")))].sort((left, right) => left.localeCompare(right)).map(genre => `<option value="${genre.toLowerCase()}">${genre}</option>`).join("");
 		const sortBar = document.createElement("div");
 		sortBar.className = "catalog-sortbar";
-		sortBar.innerHTML = `<div class="sort-tabs"><button type="button" class="is-active" data-sort="newest">Newest</button><button type="button" data-sort="updated">Updated</button><button type="button" data-sort="downloads">Downloads</button><button type="button" data-sort="views">Views</button><button type="button" data-sort="az">A-Z</button></div><label class="genre-select"><span>≡</span><select aria-label="Genre"><option value="all">Genre</option><option value="action">Action</option><option value="adventure">Adventure</option><option value="horror">Horror</option><option value="rpg">RPG</option><option value="survival">Survival</option></select></label><button type="button" class="dice-roll" aria-label="Roll a random game">⚄</button>`;
+		sortBar.innerHTML = `<div class="sort-tabs"><button type="button" class="is-active" data-sort="newest">Newest</button><button type="button" data-sort="updated">Updated</button><button type="button" data-sort="downloads">Downloads</button><button type="button" data-sort="views">Views</button><button type="button" data-sort="az">A-Z</button></div><label class="genre-select"><span>≡</span><select aria-label="Genre"><option value="all">Genre</option>${genreOptions}</select></label><button type="button" class="dice-roll" aria-label="Roll a random game">⚄</button>`;
 		tools.insertAdjacentElement("afterend", sortBar);
 		const sortButtons = [...sortBar.querySelectorAll("[data-sort]")], genreSelect = sortBar.querySelector("select"), diceButton = sortBar.querySelector(".dice-roll");
 		const mediaStyle = document.createElement("style");
 		mediaStyle.textContent = `.catalog-tools .filters{display:none}.catalog-sortbar{display:flex;align-items:center;gap:12px;margin:0 0 20px}.sort-tabs{display:flex;align-items:center;gap:2px;padding:3px;border:1px solid rgba(255,255,255,.12);border-radius:9px;background:#111}.sort-tabs button,.genre-select,.dice-roll{border:0;color:#98939b;background:transparent;font:inherit;font-size:12px}.sort-tabs button{padding:7px 12px;border-radius:6px;cursor:pointer}.sort-tabs button.is-active{color:#fff;background:#29282d;box-shadow:0 0 0 1px rgba(255,255,255,.08)}.filters button.is-active{color:#fff;background:var(--orange)}.genre-select{display:flex;align-items:center;gap:6px;padding:8px 11px;border:1px solid rgba(255,255,255,.12);border-radius:9px;background:#111}.genre-select select{border:0;outline:0;color:#aaa;background:#111;font:inherit;cursor:pointer}.dice-roll{display:grid;place-items:center;width:36px;height:36px;border:1px solid rgba(255,255,255,.14);border-radius:9px;color:#fff;background:#151515;font-size:19px;cursor:pointer;transition:.2s}.dice-roll:hover{border-color:#ff5500;color:#ff5500;transform:rotate(12deg)}.roll-overlay{position:fixed;z-index:80;inset:0;display:grid;place-items:center;padding:24px;background:rgba(3,3,5,.86);backdrop-filter:blur(8px)}.roll-window{width:min(900px,92vw);overflow:hidden;border:1px solid rgba(255,255,255,.18);border-radius:14px;background:#111116;box-shadow:0 25px 80px rgba(0,0,0,.65)}.roll-window h2{margin:0;padding:18px;text-align:center;color:#fff;font-family:Orbitron,sans-serif;font-size:15px}.roll-viewport{position:relative;overflow:hidden;padding:22px 0;border-top:1px solid rgba(255,255,255,.1);border-bottom:1px solid rgba(255,255,255,.1)}.roll-viewport:before{content:"";position:absolute;z-index:2;inset:0 50%;width:2px;background:#ff5500;box-shadow:0 0 24px #ff5500}.roll-track{display:flex;gap:12px;width:max-content;transform:translateX(0);transition:transform 2.3s cubic-bezier(.12,.72,.15,1)}.roll-card{width:150px;min-width:150px;height:205px;position:relative;overflow:hidden;border:1px solid rgba(255,255,255,.18);border-radius:9px;background:#222}.roll-card .cover{position:absolute;inset:0;background-size:cover;background-position:center}.roll-card .roll-name{position:absolute;right:8px;bottom:8px;left:8px;color:#fff;font-weight:800;font-size:11px;text-shadow:0 2px 8px #000}.roll-close{display:block;margin:15px auto;padding:8px 18px;border:1px solid #ff5500;border-radius:7px;color:#fff;background:transparent;cursor:pointer}#download-tab .detail-grid{grid-template-columns:minmax(0,7fr) minmax(260px,3fr)}@media(max-width:800px){.catalog-sortbar{flex-wrap:wrap}.sort-tabs{order:2;width:100%;overflow-x:auto}.genre-select{order:1}.dice-roll{order:1}#download-tab .detail-grid{grid-template-columns:1fr}}`;
 		mediaStyle.textContent += `@media(max-width:800px){#download-tab{overflow-x:hidden}#download-tab .catalog-shell{width:100%;padding:6.5rem 14px 3rem}.catalog-tools{margin:24px 0 14px}.catalog-tools .search{width:100%;min-width:0}.catalog-sortbar{width:100%;gap:8px;margin-bottom:14px}.sort-tabs{max-width:100%;overflow-x:auto;scrollbar-width:none}.sort-tabs::-webkit-scrollbar{display:none}.sort-tabs button{flex:0 0 auto;padding:7px 10px}.genre-select{flex:1;min-width:0}.genre-select select{min-width:0;width:100%}.dice-roll{flex:0 0 36px}.poster-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:10px!important}.poster-card{min-height:230px!important}.poster-copy{right:10px!important;bottom:10px!important;left:10px!important}.poster-copy h2{font-size:12px!important}.detail-grid{width:calc(100% - 24px)!important;margin:0 auto!important;grid-template-columns:1fr!important;gap:14px!important}.detail-column{gap:14px!important}.hero{height:330px!important;min-height:0!important;padding:5rem 14px 2.5rem!important}.steam-hero-logo{left:5vw!important;width:78vw!important;max-height:125px!important}.game-icon-image{width:76px!important;height:76px!important}.steam-description-panel{width:100%;overflow:hidden}.store-copy{padding:16px!important}.store-copy h2{font-size:16px!important}.description-notice{font-size:9px!important}.requirements{grid-template-columns:1fr!important;gap:14px!important;padding:0 16px 16px!important}.requirement-copy{padding:0 16px 16px!important;overflow-wrap:anywhere}.requirement-row{gap:8px!important}.requirement-row span{min-width:70px!important}.mirror-grid{grid-template-columns:1fr!important}.split-mirrors{grid-template-columns:1fr!important}.mirror-btn{min-height:44px!important;padding:10px!important;text-align:center}.metadata-row{padding:11px 16px!important}.metadata-row b{max-width:58%;overflow-wrap:anywhere}.panel-title{padding-left:16px!important;padding-right:16px!important}#description-wrapper{max-width:100%;overflow-x:hidden}#description-wrapper img,#description-wrapper video,#description-wrapper iframe{max-width:100%!important;height:auto!important}#download-tab .poster-card{content-visibility:auto;contain-intrinsic-size:230px}}`;
+		mediaStyle.textContent += `#download-tab .poster-copy{bottom:14px;transform:translateY(10px);opacity:0;transition:opacity .2s ease,transform .2s ease}#download-tab .poster-card:hover .poster-copy,#download-tab .poster-card:focus-visible .poster-copy{transform:translateY(0);opacity:1}#download-tab .poster-copy h2{margin:0;font-size:14px;line-height:1.25}#download-tab .poster-copy p{display:none!important}#download-tab .poster-genres{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px}#download-tab .poster-genre{padding:3px 6px;border:1px solid rgba(255,255,255,.2);border-radius:3px;color:#e9e7ea;background:rgba(10,10,12,.62);font-size:8px;font-weight:800;letter-spacing:.06em;text-transform:uppercase}#download-tab .poster-meta{display:flex;flex-wrap:wrap;gap:11px;margin-top:7px;color:#aaa6ad;font-size:9px;font-weight:700;text-transform:uppercase}#download-tab .view-label{display:none!important}@media(hover:none){#download-tab .poster-copy{transform:translateY(0);opacity:1}}`;
+				mediaStyle.textContent += `#download-tab .poster-copy{bottom:14px;transform:translateY(10px);opacity:0;transition:opacity .2s ease,transform .2s ease}#download-tab .poster-card:hover .poster-copy,#download-tab .poster-card:focus-visible .poster-copy{transform:translateY(0);opacity:1}#download-tab .poster-copy h2{margin:0;font-size:14px;line-height:1.25}#download-tab .poster-copy p{display:none!important}#download-tab .poster-genres{position:static;display:flex;flex-wrap:wrap;gap:5px;margin-top:7px;padding:0;border:0;border-radius:0;background:transparent}#download-tab .poster-genre{padding:3px 6px;border:1px solid rgba(255,255,255,.2);border-radius:3px;color:#e9e7ea;background:rgba(10,10,12,.62);font-size:8px;font-weight:800;letter-spacing:.06em;text-transform:uppercase}#download-tab .poster-meta{display:flex;flex-wrap:wrap;gap:11px;margin-top:7px;color:#aaa6ad;font-size:9px;font-weight:700;text-transform:uppercase}#download-tab .view-label{display:none!important}@media(hover:none){#download-tab .poster-copy{transform:translateY(0);opacity:1}}`;
+		mediaStyle.textContent += `#download-tab .poster-copy{right:0;bottom:0;left:0;padding:11px 12px;background:rgba(6,6,8,.84);backdrop-filter:blur(5px);border-top:1px solid rgba(255,255,255,.08)}`;
+		mediaStyle.textContent += `#download-tab .poster-copy{background:rgba(6,6,8,.62)}#download-tab .poster-size{display:inline-flex;align-items:center;gap:5px}#download-tab .poster-size-icon{position:relative;display:inline-block;width:11px;height:9px;border:1px solid currentColor;border-radius:2px;box-sizing:border-box}#download-tab .poster-size-icon:before{content:"";position:absolute;top:1px;right:1px;width:3px;height:2px;background:currentColor}#download-tab .poster-size-icon:after{content:"";position:absolute;right:1px;bottom:1px;left:1px;height:2px;border-top:1px solid currentColor}@media(max-width:800px){#download-tab .poster-copy{right:0!important;bottom:0!important;left:0!important;padding:10px 12px!important}}`;
+		mediaStyle.textContent += `#download-tab .poster-copy .poster-genres{position:static!important;top:auto!important;right:auto!important;bottom:auto!important;left:auto!important;z-index:auto!important;display:flex!important;flex-wrap:wrap;gap:5px;margin:7px 0 0;padding:0!important;border:0!important;border-radius:0!important;background:transparent!important}`;
+		mediaStyle.textContent += `#download-tab .poster-copy{right:-1px!important;bottom:-1px!important;left:-1px!important}@media(max-width:800px){#download-tab .poster-copy{right:-1px!important;bottom:-1px!important;left:-1px!important}}`;
+		mediaStyle.textContent += `#download-tab .catalog-tools .filters{display:none!important}`;
+		mediaStyle.textContent += `#download-tab .catalog-sortbar .sort-tabs button,#download-tab .catalog-sortbar .genre-select,#download-tab .catalog-sortbar .genre-select select{font-family:Inter,system-ui,sans-serif!important;font-weight:600!important}`;
 		document.head.appendChild(mediaStyle);
-		let activeFilter = "all", activeSort = "newest", activeGenre = "all";
+		cards.forEach(card => {
+			const copy = card.querySelector(".poster-copy"), title = copy?.querySelector("h2"), tag = card.querySelector(".tag");
+			if (!copy || !title || !tag) return;
+			const genreText = tag.textContent.trim();
+			const genreLabels = getCatalogGenreLabels(genreText);
+			tag.dataset.genre = genreText;
+			tag.classList.add("poster-genres");
+			tag.replaceChildren();
+			for (const label of genreLabels) {
+				const chip = document.createElement("span");
+				chip.className = "poster-genre";
+				chip.textContent = label;
+				tag.appendChild(chip);
+			}
+			title.after(tag);
+			const game = downloadGameDetails[card.dataset.game], meta = document.createElement("div"), size = document.createElement("span");
+			meta.className = "poster-meta";
+			size.className = "poster-size";
+			size.innerHTML = '<span class="poster-size-icon" aria-hidden="true"></span><span></span>';
+			size.lastElementChild.textContent = `SIZE ${game?.size && /\d/.test(game.size) ? game.size : "Unavailable"}`;
+			meta.appendChild(size);
+			copy.appendChild(meta);
+		});
+		let activeFilter = "all", activeSort = "newest", activeGenres = new Set();
 		const applyCatalogState = () => {
 			const query = (searchInput.value || "").trim().toLowerCase();
 			const ordered = [...originalOrder].sort((left, right) => activeSort === "az" ? left.dataset.game.localeCompare(right.dataset.game) : activeSort === "newest" ? originalOrder.indexOf(left) - originalOrder.indexOf(right) : originalOrder.indexOf(right) - originalOrder.indexOf(left));
 			ordered.forEach(card => posterGrid.appendChild(card));
 			cards.forEach(card => {
-				const text = `${card.dataset.game} ${card.querySelector(".tag")?.textContent || ""} ${card.querySelector("p")?.textContent || ""}`.toLowerCase();
-				const genre = (card.querySelector(".tag")?.textContent || "").toLowerCase();
-				const matchesFilter = activeFilter === "all" || activeFilter === "recent" && originalOrder.indexOf(card) >= 6 || activeFilter !== "recent" && genre.includes(activeFilter);
-				const matchesGenre = activeGenre === "all" || genre.includes(activeGenre);
+				const tag = card.querySelector(".tag"), tagText = tag?.dataset.genre || tag?.textContent || "";
+				const text = `${card.dataset.game} ${tagText} ${card.querySelector("p")?.textContent || ""}`.toLowerCase();
+				const genre = tagText.toLowerCase();
+				const matchesFilter = activeFilter === "all" || activeFilter === "recent" && recentlyAddedCards.has(card) || activeFilter !== "recent" && genre.includes(activeFilter);
+				const matchesGenre = activeGenres.size === 0 || [...activeGenres].some(activeGenre => genre.includes(activeGenre));
 				card.hidden = !(matchesFilter && matchesGenre && text.includes(query));
 			});
 		};
@@ -17794,7 +18774,10 @@ function DownloadTabIsolated() {
 		const searchHandler = () => applyCatalogState();
 		searchInput.addEventListener("input", searchHandler);
 		const sortEvents = sortButtons.map(button => { const handler = () => { activeSort = button.dataset.sort; sortButtons.forEach(item => item.classList.toggle("is-active", item === button)); applyCatalogState(); }; button.addEventListener("click", handler); return [button, handler]; });
-		const genreHandler = () => { activeGenre = genreSelect.value; applyCatalogState(); };
+		const genreHandler = () => {
+			activeGenres = new Set([...genreSelect.selectedOptions].filter(option => option.value !== "all").map(option => option.value.toLowerCase()));
+			applyCatalogState();
+		};
 		genreSelect.addEventListener("change", genreHandler);
 		const rollOverlay = document.createElement("div");
 		const rollHandler = () => { const available = cards.filter(card => !card.hidden); if (!available.length) return; const winner = available[Math.floor(Math.random() * available.length)]; rollOverlay.className = "roll-overlay"; const track = [...Array(14)].flatMap(() => available).map(card => `<div class="roll-card"><span class="cover" style="background-image:${card.style.getPropertyValue("--cover")}"></span><span class="roll-name">${card.dataset.game}</span></div>`).join(""); rollOverlay.innerHTML = `<div class="roll-window"><h2>Rolling your next game</h2><div class="roll-viewport"><div class="roll-track">${track}</div></div><button class="roll-close" type="button">Close</button></div>`; document.body.appendChild(rollOverlay); const winnerIndex = 13 * available.length + available.indexOf(winner); requestAnimationFrame(() => rollOverlay.querySelector(".roll-track").style.transform = `translateX(calc(50% - ${(winnerIndex * 162) + 75}px))`); rollOverlay.querySelector(".roll-close").addEventListener("click", () => rollOverlay.remove()); };
@@ -17808,15 +18791,16 @@ function DownloadTabIsolated() {
 			probe.src = images.poster;
 		});
 		const openDetails = async event => {
-			const gameName = event.currentTarget.dataset.game, game = downloadGameDetails[gameName];
-			if (!game) return;
+			const gameName = event.currentTarget.dataset.game, game = getDownloadGameDetails(event.currentTarget);
 			let steamData = {};
-			try {
-				const response = await fetch(`/api/steam/${game.steamId}`);
-				const payload = await response.json();
-				steamData = payload?.[game.steamId]?.data || {};
-			} catch (error) {
-				steamData = {};
+			if (game.steamId) {
+				try {
+					const response = await fetch(`/api/steam/${game.steamId}`);
+					const payload = await response.json();
+					steamData = payload?.[game.steamId]?.data || {};
+				} catch (error) {
+					steamData = {};
+				}
 			}
 			details.innerHTML = renderDownloadDetails({ ...game, ...steamData, name: gameName });
 			applyDetailLayout();
@@ -17905,10 +18889,14 @@ function DownloadTabIsolated() {
                   <div id="catalog-view"><div class="catalog-shell"><p class="kicker">Library / Select a game</p><h1>Choose your next adventure.</h1><p class="intro">Browse the collection, hover a cover to preview it, then open a game for its media, requirements, download mirrors, and release information.</p><div class="catalog-tools"><label class="search"><span>⌕</span><input type="search" placeholder="Search games"></label><div class="filters"><button type="button">All games</button><button type="button">Action</button><button type="button">Adventure</button><button type="button">Horror</button><button type="button">Recently added</button></div></div><div class="poster-grid">
 					<button class="poster-card" type="button" data-open-details data-game="Totally Accurate Battle Simulator" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/508440/library_600x900.jpg')"><span class="tag">Physics sandbox</span><span class="cover"></span><span class="poster-copy"><h2>Totally Accurate Battle Simulator</h2><p>Lead wobbly warriors into spectacularly unpredictable battles in a playful tactical sandbox.</p></span><span class="view-label">View game →</span></button>
 					<button class="poster-card" type="button" data-open-details data-game="FNAF: Into the Pit" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/2638370/library_600x900.jpg')"><span class="tag">Adventure horror</span><span class="cover"></span><span class="poster-copy"><h2>FNAF: Into the Pit</h2><p>Explore a haunting mystery packed with secrets, tension, and a story that will not stay buried.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Black Myth: Wukong" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/2358720/library_600x900.jpg')"><span class="tag">Action RPG</span><span class="cover"></span><span class="poster-copy"><h2>Black Myth: Wukong</h2><p>Journey through a mythic world inspired by Journey to the West as the Destined One.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="God of War Ragnarök" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/2322010/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>God of War Ragnarök</h2><p>Join Kratos and Atreus on a journey through the Nine Realms as Ragnarök approaches.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Marvel's Spider-Man Remastered" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/1817070/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>Marvel's Spider-Man Remastered</h2><p>Swing across an expansive New York City in an original Spider-Man story.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Resident Evil 4" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/2050650/library_600x900.jpg')"><span class="tag">Survival horror</span><span class="cover"></span><span class="poster-copy"><h2>Resident Evil 4</h2><p>Leon Kennedy searches a remote European village for the president's kidnapped daughter.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="SILENT HILL 2" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/2124490/library_600x900.jpg')"><span class="tag">Psychological horror</span><span class="cover"></span><span class="poster-copy"><h2>SILENT HILL 2</h2><p>James Sunderland follows a letter from his late wife into the fog-shrouded town of Silent Hill.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="STAR WARS Jedi: Survivor" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/1774580/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>STAR WARS Jedi: Survivor</h2><p>Continue Cal Kestis's story as he fights to protect the galaxy from the Empire.</p></span><span class="view-label">View game →</span></button>
 					<button class="poster-card" type="button" data-open-details data-game="Assassin's Creed Rogue" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/311560/library_600x900.jpg')"><span class="tag">Open-world action</span><span class="cover"></span><span class="poster-copy"><h2>Assassin's Creed Rogue</h2><p>Sail the icy North Atlantic and discover a dangerous new chapter in the Assassin's Creed saga.</p></span><span class="view-label">View game →</span></button>
 					<button class="poster-card" type="button" data-open-details data-game="Assassin's Creed IV Black Flag" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/242050/library_600x900.jpg')"><span class="tag">Pirate adventure</span><span class="cover"></span><span class="poster-copy"><h2>Assassin's Creed IV Black Flag</h2><p>Command your ship, explore islands, and hunt for treasure in the Golden Age of Piracy.</p></span><span class="view-label">View game →</span></button>
-					<button class="poster-card" type="button" data-open-details data-game="Assassin's Creed III" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/208480/library_600x900.jpg')"><span class="tag">Historical action</span><span class="cover"></span><span class="poster-copy"><h2>Assassin's Creed III</h2><p>Fight for freedom across a changing frontier during the American Revolution.</p></span><span class="view-label">View game →</span></button>
-					<button class="poster-card" type="button" data-open-details data-game="Assassin's Creed Liberation" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/260210/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>Assassin's Creed Liberation</h2><p>Follow an assassin navigating intrigue and rebellion in 18th-century New Orleans.</p></span><span class="view-label">View game →</span></button>
 					<button class="poster-card" type="button" data-open-details data-game="Raft" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/648800/library_600x900.jpg')"><span class="tag">Survival adventure</span><span class="cover"></span><span class="poster-copy"><h2>Raft</h2><p>Build, expand, and survive on a tiny raft across a dangerous open ocean.</p></span><span class="view-label">View game →</span></button>
 					<button class="poster-card" type="button" data-open-details data-game="Red Dead Redemption 2" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/1174180/library_600x900.jpg')"><span class="tag">Open-world western</span><span class="cover"></span><span class="poster-copy"><h2>Red Dead Redemption 2</h2><p>Ride with Arthur Morgan through the final days of the American frontier.</p></span><span class="view-label">View game →</span></button>
 					<button class="poster-card" type="button" data-open-details data-game="Call of Duty: Modern Warfare (2019)" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/2000950/library_600x900.jpg')"><span class="tag">First-person shooter</span><span class="cover"></span><span class="poster-copy"><h2>Call of Duty: Modern Warfare</h2><p>Experience a gritty reimagining of the Modern Warfare series.</p></span><span class="view-label">View game →</span></button>
@@ -17922,6 +18910,34 @@ function DownloadTabIsolated() {
 					<button class="poster-card" type="button" data-open-details data-game="Hogwarts Legacy" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/990080/library_600x900.jpg')"><span class="tag">Open-world action RPG</span><span class="cover"></span><span class="poster-copy"><h2>Hogwarts Legacy</h2><p>Experience life as a student while uncovering a hidden wizarding truth.</p></span><span class="view-label">View game →</span></button>
 					<button class="poster-card" type="button" data-open-details data-game="Dying Light" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/239140/library_600x900.jpg')"><span class="tag">Zombie survival action</span><span class="cover"></span><span class="poster-copy"><h2>Dying Light</h2><p>Survive a city where the infected grow more aggressive after sunset.</p></span><span class="view-label">View game →</span></button>
 					<button class="poster-card" type="button" data-open-details data-game="Valheim" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/892970/library_600x900.jpg')"><span class="tag">Survival sandbox</span><span class="cover"></span><span class="poster-copy"><h2>Valheim</h2><p>Explore and survive a procedurally generated Viking purgatory.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Portal 2" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/620/library_600x900.jpg')"><span class="tag">Puzzle platformer</span><span class="cover"></span><span class="poster-copy"><h2>Portal 2</h2><p>Sequel to the original Portal with new puzzle mechanics and co-op mode.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Stardew Valley" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/413150/library_600x900.jpg')"><span class="tag">Farming simulation</span><span class="cover"></span><span class="poster-copy"><h2>Stardew Valley</h2><p>Inherit your grandfather's old farm and begin your new life.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Hades" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/1145360/library_600x900.jpg')"><span class="tag">Roguelike action</span><span class="cover"></span><span class="poster-copy"><h2>Hades</h2><p>Defy the god of the dead as you hack and slash out of the Underworld.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Terraria" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/105600/library_600x900.jpg')"><span class="tag">Sandbox adventure</span><span class="cover"></span><span class="poster-copy"><h2>Terraria</h2><p>Dig, fight, explore, and build: the world is at your fingertips.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Risk of Rain 2" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/632360/library_600x900.jpg')"><span class="tag">Third-person shooter</span><span class="cover"></span><span class="poster-copy"><h2>Risk of Rain 2</h2><p>Escape a chaotic alien planet by fighting through hordes of monsters.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Sekiro: Shadows Die Twice" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/814380/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>Sekiro: Shadows Die Twice</h2><p>Carve your own clever path to vengeance in this adventure from FromSoftware.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="God of War" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/1593500/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>God of War</h2><p>Join Kratos as he journeys through the Norse realms with his son Atreus.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Fallout 4" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/377160/library_600x900.jpg')"><span class="tag">Open-world RPG</span><span class="cover"></span><span class="poster-copy"><h2>Fallout 4</h2><p>Enter a world destroyed by nuclear war. Every second is a fight for survival.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Borderlands 3" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/397540/library_600x900.jpg')"><span class="tag">First-person shooter RPG</span><span class="cover"></span><span class="poster-copy"><h2>Borderlands 3</h2><p>The original shooter-looter returns, packing bazillions of guns.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Left 4 Dead 2" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/550/library_600x900.jpg')"><span class="tag">Co-op survival horror</span><span class="cover"></span><span class="poster-copy"><h2>Left 4 Dead 2</h2><p>Set in the zombie apocalypse, this is the highly anticipated sequel.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Killing Floor 2" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/232090/library_600x900.jpg')"><span class="tag">Co-op survival horror</span><span class="cover"></span><span class="poster-copy"><h2>Killing Floor 2</h2><p>Players descend into continental Europe where the outbreak has spread.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Monster Hunter: World" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/582010/library_600x900.jpg')"><span class="tag">Action RPG</span><span class="cover"></span><span class="poster-copy"><h2>Monster Hunter: World</h2><p>Take on the role of a hunter and slay ferocious beasts in a living ecosystem.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Devil May Cry 5" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/601150/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>Devil May Cry 5</h2><p>The threat of demonic power has returned to menace the world.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Resident Evil Village" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/1196590/library_600x900.jpg')"><span class="tag">Survival horror</span><span class="cover"></span><span class="poster-copy"><h2>Resident Evil Village</h2><p>Experience survival horror like never before in the eighth major installment.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Horizon Zero Dawn" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/1151640/library_600x900.jpg')"><span class="tag">Open-world action RPG</span><span class="cover"></span><span class="poster-copy"><h2>Horizon Zero Dawn</h2><p>Aloy discovers the ruins of an ancient civilization in a post-apocalyptic world.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Death Stranding" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/1190460/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>Death Stranding</h2><p>From legendary game creator Hideo Kojima comes a genre-defying experience.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="The Witcher 3: Wild Hunt" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/292030/library_600x900.jpg')"><span class="tag">Open-world RPG</span><span class="cover"></span><span class="poster-copy"><h2>The Witcher 3: Wild Hunt</h2><p>Become a professional monster slayer and explore a vast fantasy world.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Grand Theft Auto V" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/271590/library_600x900.jpg')"><span class="tag">Open-world action</span><span class="cover"></span><span class="poster-copy"><h2>Grand Theft Auto V</h2><p>Explore Los Santos and Blaine County in Rockstar's vast open world.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="ELDEN RING" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/1245620/library_600x900.jpg')"><span class="tag">Action RPG</span><span class="cover"></span><span class="poster-copy"><h2>ELDEN RING</h2><p>Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Hogwarts Legacy" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/990080/library_600x900.jpg')"><span class="tag">Open-world action RPG</span><span class="cover"></span><span class="poster-copy"><h2>Hogwarts Legacy</h2><p>Experience life as a student at Hogwarts in the 1800s.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Dying Light" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/239140/library_600x900.jpg')"><span class="tag">Zombie survival action</span><span class="cover"></span><span class="poster-copy"><h2>Dying Light</h2><p>Survive in a city overrun by a vicious epidemic where the infected grow more aggressive after sunset.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="BioShock Infinite" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/8870/library_600x900.jpg')"><span class="tag">First-person shooter</span><span class="cover"></span><span class="poster-copy"><h2>BioShock Infinite</h2><p>Indebted to the wrong people, Booker DeWitt must rescue Elizabeth from Columbia.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Far Cry 5" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/552520/library_600x900.jpg')"><span class="tag">First-person shooter</span><span class="cover"></span><span class="poster-copy"><h2>Far Cry 5</h2><p>Welcome to Hope County, Montana, home to a fanatical doomsday cult known as Eden's Gate.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Batman: Arkham Knight" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/208650/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>Batman: Arkham Knight</h2><p>Batman: Arkham Knight brings the award-winning Arkham trilogy to a stunning conclusion.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Shadow of the Tomb Raider" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/750920/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>Shadow of the Tomb Raider</h2><p>After uncovering an ancient mystery, Lara must explore the most treacherous regions of Siberia.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Rise of the Tomb Raider" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/391220/library_600x900.jpg')"><span class="tag">Action adventure</span><span class="cover"></span><span class="poster-copy"><h2>Rise of the Tomb Raider</h2><p>Lara Croft explores the frozen Siberian wilderness to discover the secret of immortality.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="DOOM Eternal" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/782330/library_600x900.jpg')"><span class="tag">First-person shooter</span><span class="cover"></span><span class="poster-copy"><h2>DOOM Eternal</h2><p>Hell's armies have invaded Earth. Become the Slayer in an epic single-player campaign to save humanity.</p></span><span class="view-label">View game →</span></button>
+					<button class="poster-card" type="button" data-open-details data-game="Phasmophobia" style="--cover:url('https://cdn.akamai.steamstatic.com/steam/apps/739630/library_600x900.jpg')"><span class="tag">Co-op horror</span><span class="cover"></span><span class="poster-copy"><h2>Phasmophobia</h2><p>4-player online co-op psychological horror where you investigate haunted locations.</p></span><span class="view-label">View game →</span></button>
                   </div></div></div>
                   <div id="details-view" class="hidden"><div class="details-shell"><button id="details-back" class="back" type="button">← Back</button><header class="hero"><div class="hero-art"></div><div class="hero-content"><div class="game-icon">T</div><div><p class="kicker">PC game / Physics sandbox</p><h1>Totally Accurate Battle Simulator</h1><p class="hero-meta">Build 25012650 &nbsp;•&nbsp; 5.0 GB &nbsp;•&nbsp; Windows</p></div></div></header><div class="detail-grid"><div class="detail-column"><section class="panel"><h2 class="panel-title">Media</h2><div class="media"><button class="play" type="button" aria-label="Play trailer">▶</button><span class="media-note">Screenshot / trailer URL</span></div></section><section class="panel"><h2 class="panel-title">System requirements</h2><div class="requirements"><section><h3>Minimum</h3><dl><dt>OS</dt><dd>Windows 10 64-bit</dd><dt>CPU</dt><dd>Intel Core i5-2400</dd><dt>RAM</dt><dd>8 GB RAM</dd><dt>GPU</dt><dd>GTX 670 / HD 7870</dd><dt>Storage</dt><dd>5 GB available space</dd></dl></section><section><h3>Recommended</h3><dl><dt>OS</dt><dd>Windows 10 / 11 64-bit</dd><dt>CPU</dt><dd>Intel Core i7-4790K</dd><dt>RAM</dt><dd>16 GB RAM</dd><dt>GPU</dt><dd>GTX 970 / R9 290</dd><dt>Storage</dt><dd>5 GB available space</dd></dl></section></div></section></div><div class="detail-column"><section class="panel"><h2 class="panel-title">About the game</h2><div class="about"><p>Lead wobbly warriors into spectacularly unpredictable battles. Build your strategy, watch the physics take over, and enjoy a playful tactical sandbox.</p></div></section><section class="panel mirrors"><h2>Download mirrors</h2><div class="mirror-grid"><a class="mirror wide bzzhr" href="https://example.com/bzzhr-link" target="_blank" rel="noopener"><b>ϟ</b>BZZHR</a><a class="mirror wide pixel" href="https://example.com/pixeldrain-link" target="_blank" rel="noopener"><b>◇</b>PixelDrain</a><a class="mirror" href="https://example.com/torrent-file" target="_blank" rel="noopener"><b>▧</b>.Torrent File</a><a class="mirror" href="magnet:?xt=urn:btih:REPLACE_WITH_YOUR_HASH"><b>⌁</b>Magnet Link</a></div><p class="link-note">Replace these example <code>href</code> values with your own mirror URLs.</p></section><section class="panel"><h2 class="panel-title">Game information</h2><div class="cards"><article class="info-card"><h3>Release</h3><div class="info-row"><span>Version</span><strong>Build 25012650</strong></div><div class="info-row"><span>Compressed size</span><strong>5.0 GB</strong></div><div class="info-row"><span>Credits</span><strong>BXR Repack</strong></div><div class="info-row"><span>Posted</span><strong>Sep 06, 2026</strong></div></article><article class="info-card"><h3>Game stats</h3><div class="info-row"><span>Developer</span><strong>Landfall</strong></div><div class="info-row"><span>Publisher</span><strong>Landfall</strong></div><div class="info-row"><span>Steam release date</span><strong>Apr 1, 2021</strong></div><div class="rating"><div class="rating-label"><span>Review rating</span><strong>Positive 95%</strong></div><div class="meter"><i></i></div></div></article></div></section></div></div></div></div>`
 			}
