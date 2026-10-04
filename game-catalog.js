@@ -39,12 +39,6 @@ window.DOWNLOAD_GAME_CATALOG = [
     "description": "Become an Elden Lord in a vast fantasy world from FromSoftware."
   },
   {
-    "name": "ELDEN RING",
-    "steamUrl": "https://store.steampowered.com/app/1245620/",
-    "genre": "Action RPG",
-    "description": "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring."
-  },
-  {
     "name": "God of War Ragnarök",
     "steamUrl": "https://store.steampowered.com/app/2322010/",
     "genre": "Action adventure",
@@ -63,10 +57,10 @@ window.DOWNLOAD_GAME_CATALOG = [
     "description": "Explore Los Santos and Blaine County in Rockstar's vast open world."
   },
   {
-    "name": "Grand Theft Auto V",
-    "steamUrl": "https://store.steampowered.com/app/271590/",
-    "genre": "Open-world action",
-    "description": "Explore Los Santos and Blaine County in Rockstar's vast open world."
+    "name": "Dying Light 2 Stay Human",
+    "steamUrl": "https://store.steampowered.com/app/534380/",
+    "genre": "Action RPG",
+    "description": "Use agility and combat skills to survive in a vast open world plagued by the infected."
   },
   {
     "name": "The Witcher 3: Wild Hunt",
@@ -75,10 +69,10 @@ window.DOWNLOAD_GAME_CATALOG = [
     "description": "Become a professional monster slayer in a world of choices and consequences."
   },
   {
-    "name": "The Witcher 3: Wild Hunt",
-    "steamUrl": "https://store.steampowered.com/app/292030/",
+    "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "steamUrl": "https://store.steampowered.com/app/20920/",
     "genre": "Open-world RPG",
-    "description": "Become a professional monster slayer and explore a vast fantasy world."
+    "description": "Navigate political intrigue and deadly monsters in Geralt's second adventure."
   },
   {
     "name": "Resident Evil 4",
@@ -111,10 +105,10 @@ window.DOWNLOAD_GAME_CATALOG = [
     "description": "Experience life as a student while uncovering a hidden wizarding truth."
   },
   {
-    "name": "Hogwarts Legacy",
-    "steamUrl": "https://store.steampowered.com/app/990080/",
-    "genre": "Open-world action RPG",
-    "description": "Experience life as a student at Hogwarts in the 1800s."
+    "name": "Starfield",
+    "steamUrl": "https://store.steampowered.com/app/1716740/",
+    "genre": "Open-world RPG",
+    "description": "Embark on an epic journey to answer humanity's greatest mystery among the stars."
   },
   {
     "name": "Horizon Zero Dawn",
@@ -415,12 +409,6 @@ window.DOWNLOAD_GAME_CATALOG = [
     "steamUrl": "https://store.steampowered.com/app/239140/",
     "genre": "Zombie survival action",
     "description": "Survive a city where the infected grow more aggressive after sunset."
-  },
-  {
-    "name": "Dying Light",
-    "steamUrl": "https://store.steampowered.com/app/239140/",
-    "genre": "Zombie survival action",
-    "description": "Survive in a city overrun by a vicious epidemic where the infected grow more aggressive after sunset."
   },
   {
     "name": "Dishonored",
