@@ -97,6 +97,8 @@ function playCS2Sound(type) {
 // Initialize enhanced UI when DOM is ready
 document.addEventListener('DOMContentLoaded', function() {
   loadCS2Sounds();
+  syncGamesThemeColor();
+  renderGamesTab();
   enhanceSortButtons();
   enhanceDiceButton();
   
@@ -107,6 +109,121 @@ document.addEventListener('DOMContentLoaded', function() {
   // Enhance poster cards
   setTimeout(enhancePosterCards, 3000);
 });
+
+function syncGamesThemeColor() {
+  const colors = { orange: ['#F97316', '#FB923C'], blue: ['#DC2626', '#F4F4F5'], gray: ['#6366F1', '#A5B4FC'], green: ['#10B981', '#34D399'], red: ['#EF4444', '#F87171'] };
+  const theme = localStorage.getItem('B×R-theme') || 'orange';
+  const [accent, light] = colors[theme] || colors.orange;
+  document.documentElement.style.setProperty('--games-accent', accent);
+  document.documentElement.style.setProperty('--games-accent-light', light);
+}
+
+document.addEventListener('click', () => setTimeout(syncGamesThemeColor, 0));
+
+const browserGames = [
+  ['Call of Duty: Black Ops — Zombies', 'vel.gg/bo1z', 'BO1', 'Zombies'],
+  ['Call of Duty: Black Ops — Moon', 'moon-zombies.pages.dev', 'MOON', 'Zombies'],
+  ['Call of Duty: Black Ops — Kino der Toten', 'kino-der-toten.pages.dev', 'KINO', 'Zombies'],
+  ['BO3 Cheese Cube', 'cheese-cube.pages.dev', 'CUBE', 'Challenge'],
+  ['Black Ops 2', 'vibeslops.luckeysystems.com', 'BO2', 'Shooter'],
+  ['Modern Warfare 2', 'ovz-game-production.up.railway.app', 'MW2', 'Shooter'],
+  ['Skate 3', 'skate.aaddpp.lol', 'SK8', 'Sports'],
+  ['CS Surf', 'surfd.net', 'SURF', 'Shooter'],
+  ['Halo CE', 'mitchellhynes.com/halo', 'HALO', 'Shooter'],
+  ['Halo CE Mobile', 'hcemobile.com', 'HALO', 'Shooter'],
+  ['PES 6', 'pes6.optijuegos.net', 'PES', 'Sports'],
+  ['GTA 5', 'web.archive.org/web/20261005232456/https://playgta5.com/', 'V', 'Open world'],
+  ['GTA Vice City', 'joncodeofficial.github.io/gta-vice-city/', 'VC', 'Open world'],
+  ['The Simpsons: Hit & Run', 'shar-wasm.cjoseph.workers.dev/?skipmovie', 'SPR', 'Open world'],
+  ['Quake 1', 'q1.pieter.com', 'Q1', 'Classic FPS'],
+  ['Quake 2', 'q2.pieter.com', 'Q2', 'Classic FPS'],
+  ['Quake 3', 'q3.pieter.com', 'Q3', 'Arena FPS'],
+  ['Return to Castle Wolfenstein', 'rtcw.pieter.com', 'RTCW', 'Classic FPS'],
+  ['Unreal Tournament', 'ut.pieter.com', 'UT', 'Arena FPS'],
+  ['Half Life', 'pixelsuft.github.io/hl/', 'HL', 'Classic FPS'],
+  ['Half Life / CS 1.6', 'x8bitrain.github.io/webXash/', 'XASH', 'Classic FPS'],
+  ['Diablo', 'johnimril.github.io/diablo_web/', 'DIA', 'Action RPG'],
+  ['Hedgewars', 'webwars.link', 'HW', 'Strategy'],
+  ['WASMARCADE', 'wasmarcade.com/Fan', 'ARCADE', 'Game collection', 'A larger browser arcade with GTA, Minecraft, and more.']
+];
+window.BROWSER_GAMES = browserGames;
+window.GAME_STEAM_COVERS = {
+  'Call of Duty: Black Ops — Zombies': 42700, 'Call of Duty: Black Ops — Moon': 42700, 'Call of Duty: Black Ops — Kino der Toten': 42700,
+  'BO3 Cheese Cube': 311210, 'Black Ops 2': 202970, 'Modern Warfare 2': 10180, 'CS Surf': 240, 'Halo CE': 976730, 'Halo CE Mobile': 976730,
+  'GTA 5': 271590, 'GTA Vice City': 12110, 'Quake 1': 2310, 'Quake 2': 2320, 'Quake 3': 2200, 'Return to Castle Wolfenstein': 9010,
+  'Unreal Tournament': 13240, 'Half Life': 70, 'Half Life / CS 1.6': 70, 'Hedgewars': 22200, 'Skate 3': 3354750,
+  'PES 6': 1665460, 'The Simpsons: Hit & Run': 213670, 'Diablo': 2344520
+};
+window.GAME_CUSTOM_COVERS = {
+  'The Simpsons: Hit & Run': 'https://cdn2.steamgriddb.com/grid/090e09f6efa6202aa9f9d5f450aa8177.png',
+  'Skate 3': 'https://img.succesone.fr/2025/09/Skate-SuccesOneFR-microsoft.jpg'
+};
+
+function renderGamesTab() {
+  if (window.location.pathname !== '/games') return;
+
+  const content = document.querySelector('nav')?.parentElement;
+  if (!content || content.querySelector('#games-tab')) return;
+
+  const page = document.createElement('section');
+  page.id = 'games-tab';
+  page.className = 'games-tab';
+
+  const intro = document.createElement('header');
+  intro.className = 'games-intro';
+  intro.innerHTML = '<div><p class="games-eyebrow">B×R HUB</p><h1>Games</h1><p>Browser games picked by the community.</p></div><span class="games-count">25 games</span>';
+
+  const grid = document.createElement('div');
+  grid.className = 'games-grid';
+  browserGames.forEach(([name, address, mark, genre, description], index) => {
+    const card = document.createElement('a');
+    card.className = `game-link-card${index === browserGames.length - 1 ? ' game-link-card--collection' : ''}`;
+    card.href = /^https?:\/\//.test(address) ? address : `https://${address}`;
+    card.target = '_blank';
+    card.rel = 'noopener noreferrer';
+    card.setAttribute('aria-label', `Open ${name}`);
+
+    const art = document.createElement('span');
+    art.className = 'game-link-art';
+    art.textContent = mark;
+    const steamId = window.GAME_STEAM_COVERS[name];
+    const customCover = window.GAME_CUSTOM_COVERS[name];
+    if (steamId || customCover) {
+      const cover = document.createElement('img');
+      cover.className = 'game-link-cover'; cover.alt = ''; cover.src = customCover || `https://cdn.akamai.steamstatic.com/steam/apps/${steamId}/library_600x900.jpg`;
+      cover.addEventListener('error', () => cover.remove()); art.appendChild(cover);
+    }
+    const details = document.createElement('span');
+    details.className = 'game-link-details';
+    const tag = document.createElement('span');
+    tag.className = 'game-link-tag';
+    tag.textContent = genre;
+    const title = document.createElement('strong');
+    title.textContent = name;
+    const source = document.createElement('span');
+    source.className = 'game-link-source';
+    source.textContent = address.replace(/^www\./, '').split('/')[0];
+    const action = document.createElement('span');
+    action.className = 'game-link-action';
+    action.textContent = index === browserGames.length - 1 ? 'Browse collection  →' : 'Open game  →';
+    details.append(tag, title, description ? Object.assign(document.createElement('span'), { className: 'game-link-description', textContent: description }) : source, action);
+    card.append(art, details);
+    grid.appendChild(card);
+  });
+
+  page.append(intro, grid);
+  content.appendChild(page);
+}
+
+// The React bundle has no Games route. Use a full navigation for this one tab so
+// the server can return the same themed shell before this page is added.
+document.addEventListener('click', event => {
+  const gamesLink = event.target.closest('a[href="/games"]');
+  if (!gamesLink || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+  event.preventDefault();
+  event.stopPropagation();
+  window.location.assign('/games');
+}, true);
 
 // Enhance poster cards to show cleaner info
 function enhancePosterCards() {

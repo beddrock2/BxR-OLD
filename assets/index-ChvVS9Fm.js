@@ -14975,6 +14975,9 @@ const Rb = ({
 				name: "Download",
 				path: "/download"
 			}, {
+				name: "Games",
+				path: "/games"
+			}, {
 				name: "Contributors",
 				path: "/contribution"
 			}],
@@ -18973,6 +18976,29 @@ const Yb = {
 		duration: .8
 	};
 
+function GameLinksTab() {
+	const e = k.useRef(null);
+	k.useEffect(() => {
+		const t = e.current;
+		if (!t || t.dataset.ready === "true") return;
+		t.dataset.ready = "true";
+		const n = t.querySelector(".games-grid");
+		(window.BROWSER_GAMES || []).forEach((r, i, s) => {
+			const [o, l, u, c, d] = r, f = document.createElement("a"), p = document.createElement("span"), g = document.createElement("span"), y = document.createElement("span"), w = document.createElement("strong"), h = document.createElement("span"), m = document.createElement("span");
+			f.className = `game-link-card${i === s.length - 1 ? " game-link-card--collection" : ""}`, f.href = /^https?:\/\//.test(l) ? l : `https://${l}`, f.target = "_blank", f.rel = "noopener noreferrer", f.setAttribute("aria-label", `Open ${o}`);
+			p.className = "game-link-art", p.textContent = u; const v = window.GAME_STEAM_COVERS?.[o], C = window.GAME_CUSTOM_COVERS?.[o]; if (v || C) { const x = document.createElement("img"); x.className = "game-link-cover", x.alt = "", x.src = C || `https://cdn.akamai.steamstatic.com/steam/apps/${v}/library_600x900.jpg`, x.addEventListener("error", () => x.remove()), p.append(x) } if (i === s.length - 1) { const x = document.createElement("img"); x.className = "game-link-cover", x.alt = "", x.src = "/assets/wasmarcade-mascot.svg", p.append(x) } g.className = "game-link-details", y.className = "game-link-tag", y.textContent = c, w.textContent = o, h.className = d ? "game-link-description" : "game-link-source", h.textContent = d || l.replace(/^www\./, "").split("/")[0], m.className = "game-link-action", m.textContent = i === s.length - 1 ? "Browse collection  →" : "Open game  →", g.append(y, w, h, m), f.append(p, g), n.append(f)
+		})
+	}, []);
+	return a.jsxs("section", {
+		id: "games-tab",
+		className: "games-tab",
+		ref: e,
+		children: [a.jsxs("header", {
+			className: "games-intro",
+			children: [a.jsxs("div", { children: [a.jsx("p", { className: "games-eyebrow", children: "B×R HUB" }), a.jsx("h1", { children: "Games" }), a.jsx("p", { children: "Browser games picked by the community." })] }), a.jsx("span", { className: "games-count", children: "25 games" })]
+		}), a.jsx("div", { className: "games-grid" })]
+	})
+}
 function Zb() {
 	const e = Zt();
 	return a.jsx(j2, {
@@ -18992,6 +19018,9 @@ function Zb() {
 				}), a.jsx(on, {
 					path: "/download",
 					element: a.jsx(DownloadTabIsolated, {})
+				}), a.jsx(on, {
+					path: "/games",
+					element: a.jsx(GameLinksTab, {})
 				}), a.jsx(on, {
 					path: "/contribution",
 					element: a.jsx(Hb, {})

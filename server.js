@@ -12,7 +12,7 @@ const requestCounts = new Map();
 app.use(cors({ origin: allowedOrigin }));
 app.use(express.static(__dirname));
 
-app.get(["/", "/download", "/contribution"], (req, res) => {
+app.get(["/", "/download", "/games", "/contribution"], (req, res) => {
   res.sendFile(`${__dirname}/index.html`);
 });
 
