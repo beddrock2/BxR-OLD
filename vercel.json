@@ -6,7 +6,13 @@
 			"src": "server.js",
 			"use": "@vercel/node",
 			"config": {
-				"includeFiles": ["index.html", "assets/**"]
+				"includeFiles": [
+					"index.html",
+					"assets/**",
+					"game-catalog.js",
+					"enhanced-ui.js",
+					"enhanced-ui.css"
+				]
 			}
 		}
 	],
